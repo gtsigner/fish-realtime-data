@@ -16,9 +16,7 @@ fish spider
 ## 自己提供 api 说明
 
 ```
-HOST:  http://fish.oeynet.com
-PATH:  /api/goods/split
-PARAMS: q=关键词，token=testtoken
+已下线
 
 ```
 
