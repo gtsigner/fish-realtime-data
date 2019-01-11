@@ -21,7 +21,6 @@ PATH:  /api/goods/split
 PARAMS: q=关键词，token=testtoken
 
 ```
-测试接口：  http://fish.oeynet.com/api/goods/split?q=iphone&token=testtoken
 
 
 ## 更多数据或可视化信息dashboard
